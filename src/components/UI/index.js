@@ -1,6 +1,3 @@
-import React from 'react'
-import { FaCentercode } from 'react-icons/fa';
-
 import styled from 'styled-components'
 import { colors } from '../../styles/variables';
 

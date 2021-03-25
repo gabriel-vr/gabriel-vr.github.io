@@ -1,8 +1,5 @@
 import React from 'react';
-import { Container, ImageContainer, TextCardContainer, TextContainer, TextImageContainer, Title } from '../UI';
-
-import image from '../../assets/images/icmc.jpeg'
-import { texts } from '../../styles/texts';
+import { Container, TextCardContainer, TextImageContainer, Title } from '../UI';
 import { Skillspics } from './Skillspics';
 
 export function Skills(){

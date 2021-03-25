@@ -1,6 +1,5 @@
 import React from 'react';
 import {FaInstagram, FaFacebookSquare, FaLinkedin, FaGithub} from 'react-icons/fa'
-import { colors } from '../../styles/variables';
 import { ContainerRow, IconLink } from '../UI'
 
 export function Contact({color}){
