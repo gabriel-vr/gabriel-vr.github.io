@@ -14,7 +14,7 @@ function App() {
       <AboutMe/>
       <Formacao/>
       <Skills />
-      <Footer />
+      {/* <Footer /> */}
     </div>
   );
 }
